@@ -1,0 +1,11 @@
+C:\Users\Başak\source\repos\login sql\login sql\bin\Debug\login sql.exe.config
+C:\Users\Başak\source\repos\login sql\login sql\bin\Debug\login sql.exe
+C:\Users\Başak\source\repos\login sql\login sql\bin\Debug\login sql.pdb
+C:\Users\Başak\source\repos\login sql\login sql\obj\Debug\login sql.csproj.AssemblyReference.cache
+C:\Users\Başak\source\repos\login sql\login sql\obj\Debug\login_sql.Form1.resources
+C:\Users\Başak\source\repos\login sql\login sql\obj\Debug\login_sql.Properties.Resources.resources
+C:\Users\Başak\source\repos\login sql\login sql\obj\Debug\login sql.csproj.GenerateResource.cache
+C:\Users\Başak\source\repos\login sql\login sql\obj\Debug\login sql.csproj.CoreCompileInputs.cache
+C:\Users\Başak\source\repos\login sql\login sql\obj\Debug\login sql.exe
+C:\Users\Başak\source\repos\login sql\login sql\obj\Debug\login sql.pdb
+C:\Users\Başak\source\repos\login sql\login sql\obj\Debug\login_sql.AnaForm.resources
